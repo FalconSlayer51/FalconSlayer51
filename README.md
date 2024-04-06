@@ -68,10 +68,10 @@ Java, Python, JavaScript, HTML, CSS, Kotlin, Dart, Node.js, Android, REST APIs, 
   [GitHub](https://github.com/CBIT-OPENSYS)
 
 ## Accomplishments
-- Won second prize at state level SRUJANA 2022-23 competitions for Thunder Bolt.
-- Acquired state 766th rank in TSPOLYCET 2020.
 - Won CBIT HACKTOBER-2023 Hackathon.
-- Got State 116 Rank in TSECET-2023.
+- Won second prize at state level SRUJANA 2022-23 competitions for Thunder Bolt.
+- Acquired State 116 Rank in TSECET-2023.
+- Acquired state 766th rank in TSPOLYCET 2020.
 
 ## Declaration
 I hereby declare that all the details furnished above are true to the best of my knowledge.
