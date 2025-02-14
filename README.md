@@ -1,5 +1,5 @@
 # Ramesh Kuntigorla  
-📧 dhanrajramesh22@gmail.com | 📞 +91-9100392853 | [LinkedIn](https://www.linkedin.com/in/ramesh-kuntigorla-47021425a/) | [GitHub](https://github.com/FalconSlayer51)  
+dhanrajramesh22@gmail.com | +91-9100392853 | [LinkedIn](https://www.linkedin.com/in/ramesh-kuntigorla-47021425a/) | [GitHub](https://github.com/FalconSlayer51)  
 
 ## Skills  
 - Java, Python, JavaScript, Kotlin, Dart, Android, Git, GitHub  
@@ -85,7 +85,7 @@
 ## Accomplishments  
 - **LeetCode POTD Streak** – Maintained a streak of **122 days** solving the Problem of the Day.
 - **LeetCode Achievements** – Solved **230+ problems** and made **830+ submissions** in the past year.
-- 🏆 **CBIT HACKTOBER-2023 Hackathon** – Winner  
-- 🥈 **State-level SRUJANA 2022-23 competitions for ThunderBolt** – Second Prize  
-- 🎖 **TSPOLYCET 2020** – State Rank **766**  
-- 🎖 **TSECET-2023** – State Rank **116**  
+- **CBIT HACKTOBER-2023 Hackathon** – Winner  
+- **State-level SRUJANA 2022-23 competitions for ThunderBolt** – Second Prize  
+- **TSPOLYCET 2020** – State Rank **766**  
+- **TSECET-2023** – State Rank **116**  
